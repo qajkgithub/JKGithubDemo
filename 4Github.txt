@@ -1,3 +1,5 @@
+This is for the gitDemoTrunk branch
+
 Set Up Git:
 git config --global user.name "qajkgithub"
 git config --global user.email "youremail@domain.com"
